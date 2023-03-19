@@ -91,6 +91,3 @@ nav ul li a:hover::after{
     flex-basis: 60%;
 }
 
-@media only screen and (max-width:400px) {
-    
-}
